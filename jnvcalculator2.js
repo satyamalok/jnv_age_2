@@ -2,7 +2,7 @@
     const calculatorHTML = `
         <div class="jnv-school-calculator">
             <div class="calculator-container">
-                <h3 style="text-align:center;">क्या आपके बच्चे की Age JNV (Jawahar Navodaya Vidyalaya) के लिए सही है ? यहाँ Check करें</h3>
+                <h3 style="text-align: center; margin-bottom: 20px; font-size: 1.5em; color: #333;">क्या आपके बच्चे की उम्र जवाहर नवोदय विद्यालय के लिए सही है ? यहाँ Check करें</h3>
                 <div class="age-calculator-form-container">
                     <form id="leadGenerationForm">
                         <div class="step active" id="step1">
